@@ -1,0 +1,62 @@
+
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: rgb(184, 184, 184);
+    }
+    
+    header {
+      background-color: #771212;
+      color: #fff;
+      padding: 20px;
+      text-align: center;
+    }
+    
+    h1 {
+      margin: 0;
+    }
+    
+    nav {
+      background-color: #630d0d;
+      color: #fff;
+      padding: 10px;
+      text-align: center;
+    }
+    
+    nav a {
+      color: #fff;
+      margin: 0 10px;
+      text-decoration: none;
+    }
+    
+    section {
+      padding: 20px;
+    }
+    
+    .car-list {
+      list-style-type: none;
+      padding: 0;
+    }
+    
+    .car-list li {
+      margin-bottom: 10px;
+    }
+    
+    footer {
+      background-color: #5e1313;
+      color: #fff;
+      padding: 20px;
+      text-align: center;
+    }
+    img {
+      width: 600px;
+    }
+
+    #whatsapp-logo {
+      width: 100px;
+
+      position: absolute;
+      left: 770px;
+      top: 240px;
+    }
